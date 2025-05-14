@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo-jobbing.webp" alt="Jobbing.cl logo" width="250"/>
+  <img src="./logo-jobbingchile.webp" alt="Jobbing.cl logo" width="250"/>
 </p>
 
 # Jobbing.cl – Remodelaciones del hogar en Santiago, Chile 🛠️
