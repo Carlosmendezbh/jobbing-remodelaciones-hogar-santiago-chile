@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo-jobbing.webp" alt="Jobbing.cl logo" width="250"/>
+</p>
+
 # Jobbing.cl – Remodelaciones del hogar en Santiago, Chile 🛠️
 
 [Jobbing.cl](https://jobbing.cl) es una plataforma digital que conecta a personas con expertos en remodelaciones del hogar, ofreciendo soluciones rápidas, transparentes y de calidad en Santiago, Chile.
@@ -10,8 +14,9 @@ Nos especializamos en:
 
 Con Jobbing, puedes solicitar tu presupuesto en línea, comparar opciones y acceder a servicios confiables para transformar tu hogar.
 
-🔗 Visítanos: [https://jobbing.cl](https://jobbing.cl)
+📎 Visítanos: [Jobbing.cl](https://jobbing.cl)
 
 ---
 
 *Este repositorio tiene fines informativos y de posicionamiento digital.*
+
